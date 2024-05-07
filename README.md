@@ -1,7 +1,7 @@
 # Olá! Eu sou Matheus Coelho 
 
 
-- 🔥 Student Web Developer 
+- 🔥 Student Developer 
 - 🔭 I'am currently studying
 
 
